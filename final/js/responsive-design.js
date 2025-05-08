@@ -196,12 +196,12 @@ setGraphVisualization(graphVisualization) {
   }
   
   /**
-   * Apply graph adaptations
-   */
-  applyGraphAdaptations(adaptations) {
-    if (!this.graphVisualization || !this.graphVisualization.cy) return;
-      
-  // If adaptations is not provided, use current breakpoint adaptations
+ * Apply graph adaptations
+ */
+applyGraphAdaptations(adaptations) {
+  if (!this.graphVisualization || !this.graphVisualization.cy) return;
+  
+  // If adaptations is not provided or undefined, use current breakpoint adaptations
   if (!adaptations) {
     if (this.currentBreakpoint === 'small') {
       adaptations = this.options.adaptations.small;
@@ -211,22 +211,19 @@ setGraphVisualization(graphVisualization) {
       adaptations = this.options.adaptations.large;
     }
   }
-    const cy = this.graphVisualization.cy;
-    
-    // Apply node size adaptations
-    if (adaptations.nodeSize === 'reduced') {
-      cy.nodes().forEach(node => {
-        const originalSize = node.data('size');
-        node.style('width', originalSize * 0.7);
-        node.style('height', originalSize * 0.7);
-      });
-    } else {
-      cy.nodes().forEach(node => {
-        const originalSize = node.data('size');
-        node.style('width', originalSize);
-        node.style('height', originalSize);
-      });
-    }
+  
+  // Ensure adaptations.nodeSize exists before using it
+  if (!adaptations || typeof adaptations.nodeSize === 'undefined') {
+    console.warn('Invalid adaptations object provided to applyGraphAdaptations');
+    return;
+  }
+  
+  const cy = this.graphVisualization.cy;
+  
+  // Apply node size adaptations
+  if (adaptations.nodeSize === 'reduced') {
+    cy.nodes().forEach(node => {
+      const originalSize = node.data('size');
     
     // Apply label adaptations
     if (adaptations.labels === 'hidden') {
