@@ -1,0 +1,2 @@
+# memagik
+memeticmagicmap
