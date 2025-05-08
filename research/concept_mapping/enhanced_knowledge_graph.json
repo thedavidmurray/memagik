@@ -1,0 +1,2348 @@
+{
+  "nodes": [
+    {
+      "id": "concept0",
+      "label": "Memetic",
+      "category": "memetic",
+      "description": "Relating to memes or the study of how ideas spread and evolve within cultures. In the context of Memetic Magic, it refers to the manipulation of memes to affect change in the social matrix."
+    },
+    {
+      "id": "concept1",
+      "label": "Social",
+      "category": "social",
+      "description": "A key concept in Memetic Magic appearing 221 times in the text"
+    },
+    {
+      "id": "concept2",
+      "label": "Matrix",
+      "category": "social",
+      "description": "A totality including everything which it contains. In Memetic Magic, matrices are used to describe various levels of social and cultural structures."
+    },
+    {
+      "id": "concept3",
+      "label": "Social Matrix",
+      "category": "social",
+      "description": "The underlying structure of social reality that represents how ideas and linguistic consciousness form interconnected frameworks. It is a fundamental matrix that represents the underlying structure of social reality."
+    },
+    {
+      "id": "concept4",
+      "label": "Structure",
+      "category": "social",
+      "description": "The organized arrangement of memes and thought patterns that form coherent concepts within the social matrix. Structures can be manipulated through memetic magic."
+    },
+    {
+      "id": "concept5",
+      "label": "Thought",
+      "category": "memetic",
+      "description": "A key concept in Memetic Magic appearing 88 times in the text"
+    },
+    {
+      "id": "concept6",
+      "label": "Memetic Structure",
+      "category": "social",
+      "description": "A complex combination of memes that forms a coherent thought pattern or social construct. Memetic structures can be consciously engineered and downloaded into the ideosphere with the intent of causing willed change. They can be transmitted, maintained, and reproduced among target populations."
+    },
+    {
+      "id": "concept7",
+      "label": "Manipulation",
+      "category": "general",
+      "description": "The process of causing change within the objective universe in accordance with subjective will. In Memetic Magic, manipulation refers specifically to altering the Root Social Matrix and the fabric of reality through the conscious engineering of memetic structures."
+    },
+    {
+      "id": "concept8",
+      "label": "Programming",
+      "category": "general",
+      "description": "The process by which thought contagions and memetic structures are embedded in human consciousness. Cultural programming determines which portions of the Root Social Matrix an individual can perceive and interact with."
+    },
+    {
+      "id": "concept9",
+      "label": "Spirit",
+      "category": "magical",
+      "description": "Entities that possess quasi-independent wills of their own. In many cases, elements of the subconscious mind possess a measure of free will equal to that of the human ego. Spirits are real whether they are projections of the subconscious mind or not."
+    },
+    {
+      "id": "concept10",
+      "label": "Individual",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 64 times in the text"
+    },
+    {
+      "id": "concept11",
+      "label": "Mental",
+      "category": "consciousness",
+      "description": "A key concept in Memetic Magic appearing 46 times in the text"
+    },
+    {
+      "id": "concept12",
+      "label": "Subconscious",
+      "category": "consciousness",
+      "description": "The part of the mind that operates below conscious awareness. The subconscious landscape remains fairly stable but is constantly under assault from thought contagions attempting to bind to subconscious mental structures."
+    },
+    {
+      "id": "concept13",
+      "label": "Magic",
+      "category": "magical",
+      "description": "A key concept in Memetic Magic appearing 42 times in the text"
+    },
+    {
+      "id": "concept14",
+      "label": "Evocation",
+      "category": "magical",
+      "description": "The art and science of calling forth spirits. In Memetic Magic, evocation involves accessing the spiritual realm or subconscious mind to manifest entities or concepts."
+    },
+    {
+      "id": "concept15",
+      "label": "Root",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 37 times in the text"
+    },
+    {
+      "id": "concept16",
+      "label": "Consciousness",
+      "category": "consciousness",
+      "description": "The state of awareness and perception. In Memetic Magic, consciousness is seen as a tool that can be manipulated and expanded to access different levels of reality and the social matrix."
+    },
+    {
+      "id": "concept17",
+      "label": "Meme",
+      "category": "memetic",
+      "description": "The basic unit of symbolic thought. Memes are the fundamental building blocks of memetic structures and the ideosphere."
+    },
+    {
+      "id": "concept18",
+      "label": "Reality",
+      "category": "general",
+      "description": "The fabric of existence that can be manipulated through memetic magic. Reality is not fixed but can be altered through the manipulation of the Root Social Matrix."
+    },
+    {
+      "id": "concept19",
+      "label": "Memetic Magic",
+      "category": "magical",
+      "description": "A modern manifestation of shamanic practices, defined as magic performed through the manipulation of the Root Social Matrix. It is the art and science of causing change within the objective universe in accordance with the subjective will of a magician through manipulation of memes and social structures."
+    },
+    {
+      "id": "concept20",
+      "label": "Root Social Matrix",
+      "category": "social",
+      "description": "The underlying conglomeration of the accumulated social and cultural influences of humanity. It consists of every element created and maintained by human sociocultural systems, including the ideosphere wherein memetic structures predominate. Much of the content contained within the RSM is unknowable to the average human."
+    },
+    {
+      "id": "concept21",
+      "label": "Magick",
+      "category": "magical",
+      "description": "A key concept in Memetic Magic appearing 19 times in the text"
+    },
+    {
+      "id": "concept22",
+      "label": "Cultural",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 19 times in the text"
+    },
+    {
+      "id": "concept23",
+      "label": "Contagion",
+      "category": "memetic",
+      "description": "A key concept in Memetic Magic appearing 16 times in the text"
+    },
+    {
+      "id": "concept24",
+      "label": "Thought Contagion",
+      "category": "memetic",
+      "description": "Ideas or concepts that spread from mind to mind like viruses. Thought contagions attempt to bind to subconscious mental structures, and successful penetrations alter the mental landscape. They can remain latent in memetic talismans or amulets until perceived by a human mind capable of understanding them."
+    },
+    {
+      "id": "concept25",
+      "label": "Uninitiated",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 9 times in the text"
+    },
+    {
+      "id": "concept26",
+      "label": "Landscape",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 7 times in the text"
+    },
+    {
+      "id": "concept27",
+      "label": "memetic",
+      "category": "memetic",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept28",
+      "label": "ofthe",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept29",
+      "label": "human",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept30",
+      "label": "mind",
+      "category": "consciousness",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept31",
+      "label": "social",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept32",
+      "label": "matrix",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept33",
+      "label": "structure",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept34",
+      "label": "social matrix",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept35",
+      "label": "spirits",
+      "category": "magical",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept36",
+      "label": "structures",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept37",
+      "label": "ofreality",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept38",
+      "label": "programming",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept39",
+      "label": "spirit",
+      "category": "magical",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept40",
+      "label": "sociocultural",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept41",
+      "label": "thought",
+      "category": "memetic",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept42",
+      "label": "power",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept43",
+      "label": "work",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept44",
+      "label": "form",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept45",
+      "label": "memetic structure",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept46",
+      "label": "oftheroot",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept47",
+      "label": "individual",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept48",
+      "label": "memetic structures",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept49",
+      "label": "language",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept50",
+      "label": "like",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept51",
+      "label": "plane",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept52",
+      "label": "control",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept53",
+      "label": "beings",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept54",
+      "label": "symbols",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept55",
+      "label": "world",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept56",
+      "label": "manipulation",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept57",
+      "label": "thefabric",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept58",
+      "label": "oftheroot social",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept59",
+      "label": "controlbots",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept60",
+      "label": "matrix thefabric",
+      "category": "social",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept61",
+      "label": "tothe",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept62",
+      "label": "conscious",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept63",
+      "label": "mental",
+      "category": "consciousness",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept64",
+      "label": "kira",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept65",
+      "label": "evocation",
+      "category": "magical",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept66",
+      "label": "attempt",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept67",
+      "label": "inthe",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept68",
+      "label": "domination",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept69",
+      "label": "systems",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept70",
+      "label": "physical",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept71",
+      "label": "manipulation oftheroot",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept72",
+      "label": "embedded",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept73",
+      "label": "anindividual",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept74",
+      "label": "time",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept75",
+      "label": "elements",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    },
+    {
+      "id": "concept76",
+      "label": "people",
+      "category": "general",
+      "description": "A significant term identified through text analysis"
+    }
+  ],
+  "edges": [
+    {
+      "source": "concept3",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept15",
+      "relationship": "is"
+    },
+    {
+      "source": "concept7",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept7",
+      "relationship": "is"
+    },
+    {
+      "source": "concept15",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept21",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept21",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept19",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept13",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept13",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept8",
+      "relationship": "influences"
+    },
+    {
+      "source": "concept8",
+      "target": "concept7",
+      "relationship": "influences"
+    },
+    {
+      "source": "concept20",
+      "target": "concept7",
+      "relationship": "is"
+    },
+    {
+      "source": "concept7",
+      "target": "concept20",
+      "relationship": "is"
+    },
+    {
+      "source": "concept0",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept7",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept4",
+      "relationship": "are"
+    },
+    {
+      "source": "concept4",
+      "target": "concept18",
+      "relationship": "are"
+    },
+    {
+      "source": "concept0",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept10",
+      "relationship": "creates"
+    },
+    {
+      "source": "concept6",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept17",
+      "relationship": "creates"
+    },
+    {
+      "source": "concept7",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept19",
+      "target": "concept17",
+      "relationship": "are"
+    },
+    {
+      "source": "concept19",
+      "target": "concept6",
+      "relationship": "are"
+    },
+    {
+      "source": "concept19",
+      "target": "concept4",
+      "relationship": "are"
+    },
+    {
+      "source": "concept3",
+      "target": "concept17",
+      "relationship": "are"
+    },
+    {
+      "source": "concept17",
+      "target": "concept19",
+      "relationship": "are"
+    },
+    {
+      "source": "concept17",
+      "target": "concept3",
+      "relationship": "are"
+    },
+    {
+      "source": "concept17",
+      "target": "concept7",
+      "relationship": "are"
+    },
+    {
+      "source": "concept17",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept17",
+      "target": "concept2",
+      "relationship": "are"
+    },
+    {
+      "source": "concept7",
+      "target": "concept17",
+      "relationship": "are"
+    },
+    {
+      "source": "concept6",
+      "target": "concept19",
+      "relationship": "are"
+    },
+    {
+      "source": "concept6",
+      "target": "concept13",
+      "relationship": "are"
+    },
+    {
+      "source": "concept13",
+      "target": "concept6",
+      "relationship": "are"
+    },
+    {
+      "source": "concept13",
+      "target": "concept4",
+      "relationship": "are"
+    },
+    {
+      "source": "concept1",
+      "target": "concept17",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept17",
+      "relationship": "are"
+    },
+    {
+      "source": "concept4",
+      "target": "concept19",
+      "relationship": "are"
+    },
+    {
+      "source": "concept4",
+      "target": "concept13",
+      "relationship": "are"
+    },
+    {
+      "source": "concept7",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept7",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept10",
+      "relationship": "creates"
+    },
+    {
+      "source": "concept10",
+      "target": "concept23",
+      "relationship": "creates"
+    },
+    {
+      "source": "concept24",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept24",
+      "target": "concept23",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept24",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept23",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept24",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept23",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept24",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept24",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept23",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept14",
+      "relationship": "are"
+    },
+    {
+      "source": "concept14",
+      "target": "concept12",
+      "relationship": "are"
+    },
+    {
+      "source": "concept11",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept24",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept23",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept24",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept23",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept14",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept14",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept14",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept14",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept9",
+      "target": "concept26",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept26",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept22",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept12",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept12",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept14",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept14",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept14",
+      "target": "concept10",
+      "relationship": "is"
+    },
+    {
+      "source": "concept10",
+      "target": "concept14",
+      "relationship": "is"
+    },
+    {
+      "source": "concept9",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept9",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept0",
+      "target": "concept14",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept14",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept3",
+      "target": "concept11",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept11",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept6",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept6",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept5",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept5",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept1",
+      "relationship": "are"
+    },
+    {
+      "source": "concept1",
+      "target": "concept18",
+      "relationship": "are"
+    },
+    {
+      "source": "concept0",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept0",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept1",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept4",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept1",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept4",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept16",
+      "target": "concept25",
+      "relationship": "is"
+    },
+    {
+      "source": "concept16",
+      "target": "concept13",
+      "relationship": "is"
+    },
+    {
+      "source": "concept25",
+      "target": "concept16",
+      "relationship": "is"
+    },
+    {
+      "source": "concept25",
+      "target": "concept13",
+      "relationship": "is"
+    },
+    {
+      "source": "concept13",
+      "target": "concept16",
+      "relationship": "is"
+    },
+    {
+      "source": "concept13",
+      "target": "concept25",
+      "relationship": "is"
+    },
+    {
+      "source": "concept16",
+      "target": "concept15",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept15",
+      "target": "concept16",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept13",
+      "relationship": "is"
+    },
+    {
+      "source": "concept13",
+      "target": "concept20",
+      "relationship": "is"
+    },
+    {
+      "source": "concept3",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept20",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept3",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept20",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept2",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept2",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept18",
+      "target": "concept25",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept25",
+      "target": "concept18",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept10",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept10",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept22",
+      "target": "concept8",
+      "relationship": "relates to"
+    },
+    {
+      "source": "concept8",
+      "target": "concept22",
+      "relationship": "relates to"
+    }
+  ]
+}

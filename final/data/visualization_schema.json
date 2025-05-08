@@ -1,0 +1,236 @@
+{
+  "version": "1.0",
+  "title": "Mimetic Magick Knowledge Graph Visualization Schema",
+  "description": "Schema defining how the knowledge graph will be visualized with game-inspired aesthetics",
+  
+  "visualStyle": {
+    "inspiration": ["Civilization Tech Trees", "Command and Conquer UI"],
+    "layout": "isometric-force-directed",
+    "background": {
+      "type": "grid",
+      "color": "#1a2a3a",
+      "gridColor": "#2a3a4a",
+      "gridSpacing": 50
+    },
+    "interface": {
+      "sidebar": {
+        "position": "right",
+        "width": 300,
+        "style": "command-and-conquer"
+      },
+      "header": {
+        "height": 60,
+        "style": "civilization-header"
+      }
+    }
+  },
+  
+  "nodeRepresentation": {
+    "baseShape": "hexagon",
+    "categories": {
+      "memetic": {
+        "color": "#3498db",
+        "icon": "brain",
+        "description": "Concepts related to memes and memetic theory"
+      },
+      "social": {
+        "color": "#e74c3c",
+        "icon": "people",
+        "description": "Concepts related to social structures and interactions"
+      },
+      "magical": {
+        "color": "#9b59b6",
+        "icon": "wand",
+        "description": "Concepts related to magical practices and theory"
+      },
+      "consciousness": {
+        "color": "#2ecc71",
+        "icon": "mind",
+        "description": "Concepts related to consciousness and awareness"
+      },
+      "general": {
+        "color": "#f39c12",
+        "icon": "document",
+        "description": "General concepts that span multiple categories"
+      }
+    },
+    "sizing": {
+      "method": "connectionBased",
+      "minSize": 30,
+      "maxSize": 80,
+      "sizeAttribute": "connections"
+    },
+    "labels": {
+      "font": "Orbitron, sans-serif",
+      "fontSize": {
+        "min": 12,
+        "max": 18,
+        "sizeAttribute": "connections"
+      },
+      "position": "bottom"
+    },
+    "states": {
+      "default": {
+        "opacity": 0.8,
+        "glow": false
+      },
+      "hover": {
+        "opacity": 1.0,
+        "glow": true,
+        "glowColor": "white",
+        "glowIntensity": 0.5
+      },
+      "selected": {
+        "opacity": 1.0,
+        "glow": true,
+        "glowColor": "gold",
+        "glowIntensity": 0.8,
+        "borderWidth": 3
+      }
+    }
+  },
+  
+  "edgeRepresentation": {
+    "style": "tech-tree",
+    "types": {
+      "relates to": {
+        "lineStyle": "solid",
+        "width": 1,
+        "description": "General relationship between concepts"
+      },
+      "is": {
+        "lineStyle": "solid",
+        "width": 2,
+        "description": "Definitional relationship"
+      },
+      "influences": {
+        "lineStyle": "dashed",
+        "width": 1.5,
+        "description": "One concept influences another"
+      },
+      "creates": {
+        "lineStyle": "dotted",
+        "width": 1.5,
+        "description": "One concept creates or leads to another"
+      },
+      "are": {
+        "lineStyle": "solid",
+        "width": 2,
+        "description": "Plural form of 'is' relationship"
+      }
+    },
+    "coloring": {
+      "method": "gradient",
+      "opacity": 0.7,
+      "highlightOpacity": 1.0
+    },
+    "states": {
+      "default": {
+        "opacity": 0.6
+      },
+      "hover": {
+        "opacity": 0.9,
+        "width": "+1"
+      },
+      "selected": {
+        "opacity": 1.0,
+        "width": "+2",
+        "glow": true
+      }
+    }
+  },
+  
+  "interactiveElements": {
+    "navigation": {
+      "zoom": {
+        "min": 0.5,
+        "max": 3.0,
+        "default": 1.0
+      },
+      "pan": true,
+      "minimap": {
+        "enabled": true,
+        "position": "bottom-left",
+        "size": 150
+      }
+    },
+    "selection": {
+      "click": "selectNode",
+      "doubleClick": "expandNode",
+      "rightClick": "contextMenu"
+    },
+    "filters": {
+      "categories": true,
+      "connectionStrength": true,
+      "relationshipTypes": true,
+      "textSearch": true
+    },
+    "infoPanel": {
+      "position": "sidebar",
+      "content": [
+        "label",
+        "category",
+        "description",
+        "connections",
+        "relatedConcepts"
+      ],
+      "style": "civilization-tech-card"
+    },
+    "pathfinding": {
+      "enabled": true,
+      "maxPathLength": 5,
+      "highlightColor": "#ffcc00"
+    }
+  },
+  
+  "animations": {
+    "nodeSelection": {
+      "duration": 300,
+      "easing": "easeOutQuad"
+    },
+    "nodeExpansion": {
+      "duration": 500,
+      "easing": "easeOutElastic"
+    },
+    "edgeHighlight": {
+      "duration": 300,
+      "easing": "easeOutQuad"
+    },
+    "cameraMovement": {
+      "duration": 800,
+      "easing": "easeInOutCubic"
+    }
+  },
+  
+  "responsiveDesign": {
+    "breakpoints": {
+      "small": 768,
+      "medium": 1024,
+      "large": 1440
+    },
+    "adaptations": {
+      "small": {
+        "sidebar": "collapsible",
+        "nodeSize": "reduced",
+        "labels": "onHover"
+      },
+      "medium": {
+        "sidebar": "compact",
+        "nodeSize": "standard",
+        "labels": "visible"
+      },
+      "large": {
+        "sidebar": "expanded",
+        "nodeSize": "standard",
+        "labels": "visible"
+      }
+    }
+  },
+  
+  "accessibility": {
+    "colorBlindFriendly": true,
+    "textToSpeech": true,
+    "keyboardNavigation": true,
+    "highContrastMode": true
+  }
+}

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive knowledge graph visualization of Mimetic Magick concepts">
+    <title>Mimetic Magick Knowledge Graph</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="game-container">
+        <!-- Header with title and navigation -->
+        <header class="game-header">
+            <div class="logo-container">
+                <h1>Mimetic Magick</h1>
+                <p class="subtitle">Knowledge Graph Explorer</p>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#" class="active" id="view-graph">Graph View</a></li>
+                    <li><a href="#" id="view-list">List View</a></li>
+                    <li><a href="#" id="view-about">About</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <!-- Main content area -->
+        <main class="game-main">
+            <!-- Visualization area for the knowledge graph -->
+            <div id="graph-container" class="graph-container">
+                <!-- Graph will be rendered here by JavaScript -->
+                <div class="loading-overlay">
+                    <div class="loading-spinner"></div>
+                    <p>Initializing Knowledge Graph...</p>
+                </div>
+            </div>
+
+            <!-- Sidebar for displaying concept details -->
+            <aside class="game-sidebar">
+                <div class="sidebar-header">
+                    <h2>Concept Details</h2>
+                    <button class="close-sidebar"><i class="fas fa-times"></i></button>
+                </div>
+                
+                <div class="sidebar-content">
+                    <!-- Default state when no concept is selected -->
+                    <div id="default-sidebar" class="sidebar-panel active">
+                        <div class="info-box">
+                            <h3>Mimetic Magick Explorer</h3>
+                            <p>Select any node in the knowledge graph to view detailed information about that concept.</p>
+                        </div>
+                        
+                        <div class="control-panel">
+                            <h3>Graph Controls</h3>
+                            <div class="control-group">
+                                <label for="category-filter">Filter by Category:</label>
+                                <select id="category-filter">
+                                    <option value="all">All Categories</option>
+                                    <option value="memetic">Memetic</option>
+                                    <option value="social">Social</option>
+                                    <option value="magical">Magical</option>
+                                    <option value="consciousness">Consciousness</option>
+                                    <option value="general">General</option>
+                                </select>
+                            </div>
+                            
+                            <div class="control-group">
+                                <label for="zoom-level">Zoom Level:</label>
+                                <div class="zoom-controls">
+                                    <button id="zoom-out"><i class="fas fa-minus"></i></button>
+                                    <input type="range" id="zoom-level" min="0.5" max="2" step="0.1" value="1">
+                                    <button id="zoom-in"><i class="fas fa-plus"></i></button>
+                                </div>
+                            </div>
+                            
+                            <div class="control-group">
+                                <button id="reset-view" class="btn-primary">Reset View</button>
+                                <button id="toggle-labels" class="btn-secondary">Toggle Labels</button>
+                            </div>
+                        </div>
+                        
+                        <div class="legend">
+                            <h3>Legend</h3>
+                            <ul class="legend-items">
+                                <li><span class="legend-color" style="background-color: #3498db;"></span> Memetic Concepts</li>
+                                <li><span class="legend-color" style="background-color: #e74c3c;"></span> Social Concepts</li>
+                                <li><span class="legend-color" style="background-color: #9b59b6;"></span> Magical Concepts</li>
+                                <li><span class="legend-color" style="background-color: #2ecc71;"></span> Consciousness Concepts</li>
+                                <li><span class="legend-color" style="background-color: #f39c12;"></span> General Concepts</li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <!-- Concept detail panel (hidden by default) -->
+                    <div id="concept-detail" class="sidebar-panel">
+                        <div class="concept-header">
+                            <h3 id="concept-title">Concept Name</h3>
+                            <span id="concept-category" class="category-badge">Category</span>
+                        </div>
+                        
+                        <div class="concept-description">
+                            <p id="concept-description-text">Concept description will appear here.</p>
+                        </div>
+                        
+                        <div class="concept-connections">
+                            <h4>Related Concepts</h4>
+                            <ul id="related-concepts-list">
+                                <!-- Related concepts will be populated here -->
+                            </ul>
+                        </div>
+                        
+                        <div class="concept-stats">
+                            <div class="stat-item">
+                                <span class="stat-label">Connections:</span>
+                                <span id="concept-connections-count" class="stat-value">0</span>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-label">Centrality:</span>
+                                <span id="concept-centrality" class="stat-value">0</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </main>
+
+        <!-- Controls for interacting with the visualization -->
+        <div class="game-controls">
+            <div class="control-panel-toggle">
+                <button id="toggle-controls"><i class="fas fa-cog"></i> Controls</button>
+            </div>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search concepts...">
+                <button id="search-button"><i class="fas fa-search"></i></button>
+            </div>
+            <div class="view-controls">
+                <button id="fullscreen-toggle"><i class="fas fa-expand"></i></button>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="game-footer">
+            <p>Mimetic Magick Knowledge Graph Explorer &copy; 2025</p>
+        </footer>
+    </div>
+
+    <!-- JavaScript libraries and application code -->
+    <script src="js/lib/cytoscape.min.js"></script>
+    <script src="js/graph.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/minimap.js"></script>
+    <script src="js/history-panel.js"></script>
+    <script src="js/export-tools.js"></script>
+    <script src="js/guided-tour.js"></script>
+    <script src="js/help-section.js"></script>
+    <script src="js/responsive-design.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

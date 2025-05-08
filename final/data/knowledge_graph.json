@@ -1,0 +1,4803 @@
+{
+  "nodes": [
+    {
+      "id": "concept0",
+      "label": "Memetic",
+      "category": "memetic",
+      "description": "Relating to memes or the study of how ideas spread and evolve within cultures. In the context of Memetic Magic, it refers to the manipulation of memes to affect change in the social matrix.",
+      "visualAttributes": {
+        "size": 2.0,
+        "color": "#3498db",
+        "connections": 44,
+        "x": 431.7196296568175,
+        "y": 169.85987055584684
+      }
+    },
+    {
+      "id": "concept1",
+      "label": "Social",
+      "category": "social",
+      "description": "A key concept in Memetic Magic appearing 221 times in the text",
+      "visualAttributes": {
+        "size": 1.8333333333333333,
+        "color": "#e74c3c",
+        "connections": 40,
+        "x": 930.63470225268,
+        "y": 44.52972919375961
+      }
+    },
+    {
+      "id": "concept2",
+      "label": "Matrix",
+      "category": "social",
+      "description": "A totality including everything which it contains. In Memetic Magic, matrices are used to describe various levels of social and cultural structures.",
+      "visualAttributes": {
+        "size": 1.9166666666666665,
+        "color": "#e74c3c",
+        "connections": 42,
+        "x": 442.09748658012575,
+        "y": 507.35208769429886
+      }
+    },
+    {
+      "id": "concept3",
+      "label": "Social Matrix",
+      "category": "social",
+      "description": "The underlying structure of social reality that represents how ideas and linguistic consciousness form interconnected frameworks. It is a fundamental matrix that represents the underlying structure of social reality.",
+      "visualAttributes": {
+        "size": 1.75,
+        "color": "#e74c3c",
+        "connections": 38,
+        "x": 843.2224848246663,
+        "y": 357.60725962024
+      }
+    },
+    {
+      "id": "concept4",
+      "label": "Structure",
+      "category": "social",
+      "description": "The organized arrangement of memes and thought patterns that form coherent concepts within the social matrix. Structures can be manipulated through memetic magic.",
+      "visualAttributes": {
+        "size": 2.0,
+        "color": "#e74c3c",
+        "connections": 44,
+        "x": 463.5613573461218,
+        "y": 215.41545430246367
+      }
+    },
+    {
+      "id": "concept5",
+      "label": "Thought",
+      "category": "memetic",
+      "description": "A key concept in Memetic Magic appearing 88 times in the text",
+      "visualAttributes": {
+        "size": 1.8333333333333333,
+        "color": "#3498db",
+        "connections": 40,
+        "x": 133.80683204167502,
+        "y": 556.8699378426675
+      }
+    },
+    {
+      "id": "concept6",
+      "label": "Memetic Structure",
+      "category": "social",
+      "description": "A complex combination of memes that forms a coherent thought pattern or social construct. Memetic structures can be consciously engineered and downloaded into the ideosphere with the intent of causing willed change. They can be transmitted, maintained, and reproduced among target populations.",
+      "visualAttributes": {
+        "size": 1.5,
+        "color": "#e74c3c",
+        "connections": 32,
+        "x": 314.87398611140287,
+        "y": 182.1939872365822
+      }
+    },
+    {
+      "id": "concept7",
+      "label": "Manipulation",
+      "category": "general",
+      "description": "The process of causing change within the objective universe in accordance with subjective will. In Memetic Magic, manipulation refers specifically to altering the Root Social Matrix and the fabric of reality through the conscious engineering of memetic structures.",
+      "visualAttributes": {
+        "size": 1.6666666666666667,
+        "color": "#f39c12",
+        "connections": 36,
+        "x": 467.7802724530924,
+        "y": 248.50592069855642
+      }
+    },
+    {
+      "id": "concept8",
+      "label": "Programming",
+      "category": "general",
+      "description": "The process by which thought contagions and memetic structures are embedded in human consciousness. Cultural programming determines which portions of the Root Social Matrix an individual can perceive and interact with.",
+      "visualAttributes": {
+        "size": 1.4166666666666667,
+        "color": "#f39c12",
+        "connections": 30,
+        "x": 977.0385675740835,
+        "y": 723.6429492380967
+      }
+    },
+    {
+      "id": "concept9",
+      "label": "Spirit",
+      "category": "magical",
+      "description": "Entities that possess quasi-independent wills of their own. In many cases, elements of the subconscious mind possess a measure of free will equal to that of the human ego. Spirits are real whether they are projections of the subconscious mind or not.",
+      "visualAttributes": {
+        "size": 1.0,
+        "color": "#9b59b6",
+        "connections": 20,
+        "x": 804.7858753265314,
+        "y": 96.4882073177404
+      }
+    },
+    {
+      "id": "concept10",
+      "label": "Individual",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 64 times in the text",
+      "visualAttributes": {
+        "size": 1.8333333333333333,
+        "color": "#f39c12",
+        "connections": 40,
+        "x": 905.7146351777973,
+        "y": 59.17586842717945
+      }
+    },
+    {
+      "id": "concept11",
+      "label": "Mental",
+      "category": "consciousness",
+      "description": "A key concept in Memetic Magic appearing 46 times in the text",
+      "visualAttributes": {
+        "size": 1.75,
+        "color": "#2ecc71",
+        "connections": 38,
+        "x": 489.84936571920326,
+        "y": 728.5640748724304
+      }
+    },
+    {
+      "id": "concept12",
+      "label": "Subconscious",
+      "category": "consciousness",
+      "description": "The part of the mind that operates below conscious awareness. The subconscious landscape remains fairly stable but is constantly under assault from thought contagions attempting to bind to subconscious mental structures.",
+      "visualAttributes": {
+        "size": 1.0833333333333335,
+        "color": "#2ecc71",
+        "connections": 22,
+        "x": 19.352885089362772,
+        "y": 186.76741682125564
+      }
+    },
+    {
+      "id": "concept13",
+      "label": "Magic",
+      "category": "magical",
+      "description": "A key concept in Memetic Magic appearing 42 times in the text",
+      "visualAttributes": {
+        "size": 1.5833333333333333,
+        "color": "#9b59b6",
+        "connections": 34,
+        "x": 941.8916854081242,
+        "y": 329.5629776676151
+      }
+    },
+    {
+      "id": "concept14",
+      "label": "Evocation",
+      "category": "magical",
+      "description": "The art and science of calling forth spirits. In Memetic Magic, evocation involves accessing the spiritual realm or subconscious mind to manifest entities or concepts.",
+      "visualAttributes": {
+        "size": 0.6666666666666666,
+        "color": "#9b59b6",
+        "connections": 12,
+        "x": 432.8034321472944,
+        "y": 249.80294585680534
+      }
+    },
+    {
+      "id": "concept15",
+      "label": "Root",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 37 times in the text",
+      "visualAttributes": {
+        "size": 1.5833333333333333,
+        "color": "#f39c12",
+        "connections": 34,
+        "x": 504.12246760687395,
+        "y": 798.6182306106778
+      }
+    },
+    {
+      "id": "concept16",
+      "label": "Consciousness",
+      "category": "consciousness",
+      "description": "The state of awareness and perception. In Memetic Magic, consciousness is seen as a tool that can be manipulated and expanded to access different levels of reality and the social matrix.",
+      "visualAttributes": {
+        "size": 1.25,
+        "color": "#2ecc71",
+        "connections": 26,
+        "x": 159.78408123841575,
+        "y": 251.9876218288665
+      }
+    },
+    {
+      "id": "concept17",
+      "label": "Meme",
+      "category": "memetic",
+      "description": "The basic unit of symbolic thought. Memes are the fundamental building blocks of memetic structures and the ideosphere.",
+      "visualAttributes": {
+        "size": 1.0833333333333335,
+        "color": "#3498db",
+        "connections": 22,
+        "x": 73.24223171092987,
+        "y": 632.2757457487702
+      }
+    },
+    {
+      "id": "concept18",
+      "label": "Reality",
+      "category": "general",
+      "description": "The fabric of existence that can be manipulated through memetic magic. Reality is not fixed but can be altered through the manipulation of the Root Social Matrix.",
+      "visualAttributes": {
+        "size": 1.0,
+        "color": "#f39c12",
+        "connections": 20,
+        "x": 906.4120919303377,
+        "y": 158.31640593733482
+      }
+    },
+    {
+      "id": "concept19",
+      "label": "Memetic Magic",
+      "category": "magical",
+      "description": "A modern manifestation of shamanic practices, defined as magic performed through the manipulation of the Root Social Matrix. It is the art and science of causing change within the objective universe in accordance with the subjective will of a magician through manipulation of memes and social structures.",
+      "visualAttributes": {
+        "size": 1.1666666666666665,
+        "color": "#9b59b6",
+        "connections": 24,
+        "x": 449.68263686177545,
+        "y": 391.378940809488
+      }
+    },
+    {
+      "id": "concept20",
+      "label": "Root Social Matrix",
+      "category": "social",
+      "description": "The underlying conglomeration of the accumulated social and cultural influences of humanity. It consists of every element created and maintained by human sociocultural systems, including the ideosphere wherein memetic structures predominate. Much of the content contained within the RSM is unknowable to the average human.",
+      "visualAttributes": {
+        "size": 1.0,
+        "color": "#e74c3c",
+        "connections": 20,
+        "x": 448.76708266902926,
+        "y": 265.0073763588441
+      }
+    },
+    {
+      "id": "concept21",
+      "label": "Magick",
+      "category": "magical",
+      "description": "A key concept in Memetic Magic appearing 19 times in the text",
+      "visualAttributes": {
+        "size": 1.0,
+        "color": "#9b59b6",
+        "connections": 20,
+        "x": 828.9986722335107,
+        "y": 121.73327473102526
+      }
+    },
+    {
+      "id": "concept22",
+      "label": "Cultural",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 19 times in the text",
+      "visualAttributes": {
+        "size": 0.8333333333333333,
+        "color": "#f39c12",
+        "connections": 16,
+        "x": 380.89859689288625,
+        "y": 793.2220848086253
+      }
+    },
+    {
+      "id": "concept23",
+      "label": "Contagion",
+      "category": "memetic",
+      "description": "A key concept in Memetic Magic appearing 16 times in the text",
+      "visualAttributes": {
+        "size": 0.6666666666666666,
+        "color": "#3498db",
+        "connections": 12,
+        "x": 962.3196493462272,
+        "y": 685.6389774170754
+      }
+    },
+    {
+      "id": "concept24",
+      "label": "Thought Contagion",
+      "category": "memetic",
+      "description": "Ideas or concepts that spread from mind to mind like viruses. Thought contagions attempt to bind to subconscious mental structures, and successful penetrations alter the mental landscape. They can remain latent in memetic talismans or amulets until perceived by a human mind capable of understanding them.",
+      "visualAttributes": {
+        "size": 0.5,
+        "color": "#3498db",
+        "connections": 8,
+        "x": 642.7080706210478,
+        "y": 149.54106500461887
+      }
+    },
+    {
+      "id": "concept25",
+      "label": "Uninitiated",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 9 times in the text",
+      "visualAttributes": {
+        "size": 1.1666666666666665,
+        "color": "#f39c12",
+        "connections": 24,
+        "x": 513.2252362577217,
+        "y": 366.7639253175539
+      }
+    },
+    {
+      "id": "concept26",
+      "label": "Landscape",
+      "category": "general",
+      "description": "A key concept in Memetic Magic appearing 7 times in the text",
+      "visualAttributes": {
+        "size": 0.75,
+        "color": "#f39c12",
+        "connections": 14,
+        "x": 971.398752525731,
+        "y": 56.5787756379968
+      }
+    },
+    {
+      "id": "concept27",
+      "label": "memetic",
+      "category": "memetic",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#3498db",
+        "connections": 0,
+        "x": 663.1743609216078,
+        "y": 583.162209163056
+      }
+    },
+    {
+      "id": "concept28",
+      "label": "ofthe",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 899.4110269235066,
+        "y": 122.57887086829645
+      }
+    },
+    {
+      "id": "concept29",
+      "label": "human",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 404.5301189236927,
+        "y": 770.7871453489181
+      }
+    },
+    {
+      "id": "concept30",
+      "label": "mind",
+      "category": "consciousness",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#2ecc71",
+        "connections": 0,
+        "x": 790.1354693122431,
+        "y": 568.7521668333874
+      }
+    },
+    {
+      "id": "concept31",
+      "label": "social",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 380.60630508124655,
+        "y": 758.9771180450498
+      }
+    },
+    {
+      "id": "concept32",
+      "label": "matrix",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 324.49827207108325,
+        "y": 541.5686390427575
+      }
+    },
+    {
+      "id": "concept33",
+      "label": "structure",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 962.2724954853713,
+        "y": 543.7609162923368
+      }
+    },
+    {
+      "id": "concept34",
+      "label": "social matrix",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 136.09896476029175,
+        "y": 222.5284970897745
+      }
+    },
+    {
+      "id": "concept35",
+      "label": "spirits",
+      "category": "magical",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#9b59b6",
+        "connections": 0,
+        "x": 710.3680266552482,
+        "y": 591.8371178598238
+      }
+    },
+    {
+      "id": "concept36",
+      "label": "structures",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 990.1389417197659,
+        "y": 626.4799885540173
+      }
+    },
+    {
+      "id": "concept37",
+      "label": "ofreality",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 451.680180206781,
+        "y": 540.0716083226135
+      }
+    },
+    {
+      "id": "concept38",
+      "label": "programming",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 989.9772621457987,
+        "y": 432.30934660619573
+      }
+    },
+    {
+      "id": "concept39",
+      "label": "spirit",
+      "category": "magical",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#9b59b6",
+        "connections": 0,
+        "x": 695.2346949513588,
+        "y": 770.3529106057053
+      }
+    },
+    {
+      "id": "concept40",
+      "label": "sociocultural",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 356.8798138905181,
+        "y": 647.6958909885846
+      }
+    },
+    {
+      "id": "concept41",
+      "label": "thought",
+      "category": "memetic",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#3498db",
+        "connections": 0,
+        "x": 700.7502615583742,
+        "y": 798.0275401770306
+      }
+    },
+    {
+      "id": "concept42",
+      "label": "power",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 480.0920414009065,
+        "y": 349.0945201536856
+      }
+    },
+    {
+      "id": "concept43",
+      "label": "work",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 249.00653094130982,
+        "y": 561.8102769500493
+      }
+    },
+    {
+      "id": "concept44",
+      "label": "form",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 386.04169834342474,
+        "y": 229.41446977113569
+      }
+    },
+    {
+      "id": "concept45",
+      "label": "memetic structure",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 582.9659783662385,
+        "y": 150.71443453203602
+      }
+    },
+    {
+      "id": "concept46",
+      "label": "oftheroot",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 555.5109483875875,
+        "y": 458.4149626983777
+      }
+    },
+    {
+      "id": "concept47",
+      "label": "individual",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 214.8352631822382,
+        "y": 140.20247322822334
+      }
+    },
+    {
+      "id": "concept48",
+      "label": "memetic structures",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 611.5806847477775,
+        "y": 210.7638922281345
+      }
+    },
+    {
+      "id": "concept49",
+      "label": "language",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 37.18908990675986,
+        "y": 104.36774503375023
+      }
+    },
+    {
+      "id": "concept50",
+      "label": "like",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 735.7356123571822,
+        "y": 668.859010750936
+      }
+    },
+    {
+      "id": "concept51",
+      "label": "plane",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 974.1829557519438,
+        "y": 101.13515735088689
+      }
+    },
+    {
+      "id": "concept52",
+      "label": "control",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 584.6478776954825,
+        "y": 369.2253948048297
+      }
+    },
+    {
+      "id": "concept53",
+      "label": "beings",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 601.9589062245941,
+        "y": 292.3605568466413
+      }
+    },
+    {
+      "id": "concept54",
+      "label": "symbols",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 309.72363728834927,
+        "y": 227.22728185591268
+      }
+    },
+    {
+      "id": "concept55",
+      "label": "world",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 720.9490836797021,
+        "y": 111.22066032536205
+      }
+    },
+    {
+      "id": "concept56",
+      "label": "manipulation",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 570.36002108495,
+        "y": 287.7014971441438
+      }
+    },
+    {
+      "id": "concept57",
+      "label": "thefabric",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 212.01666129093124,
+        "y": 447.43072917814396
+      }
+    },
+    {
+      "id": "concept58",
+      "label": "oftheroot social",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 103.11608569563788,
+        "y": 622.5395630806509
+      }
+    },
+    {
+      "id": "concept59",
+      "label": "controlbots",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 463.2480252198748,
+        "y": 338.80485697035414
+      }
+    },
+    {
+      "id": "concept60",
+      "label": "matrix thefabric",
+      "category": "social",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#e74c3c",
+        "connections": 0,
+        "x": 45.42351572218999,
+        "y": 791.5812598326524
+      }
+    },
+    {
+      "id": "concept61",
+      "label": "tothe",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 286.06390774780135,
+        "y": 37.86924079411739
+      }
+    },
+    {
+      "id": "concept62",
+      "label": "conscious",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 289.07163094203344,
+        "y": 123.13936040813563
+      }
+    },
+    {
+      "id": "concept63",
+      "label": "mental",
+      "category": "consciousness",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#2ecc71",
+        "connections": 0,
+        "x": 357.77711190436105,
+        "y": 710.1078712081495
+      }
+    },
+    {
+      "id": "concept64",
+      "label": "kira",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 543.6183023176073,
+        "y": 525.6192539111365
+      }
+    },
+    {
+      "id": "concept65",
+      "label": "evocation",
+      "category": "magical",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#9b59b6",
+        "connections": 0,
+        "x": 258.0949614548922,
+        "y": 246.0649756368473
+      }
+    },
+    {
+      "id": "concept66",
+      "label": "attempt",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 8.8205333110261,
+        "y": 433.12440334460166
+      }
+    },
+    {
+      "id": "concept67",
+      "label": "inthe",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 294.1975650320031,
+        "y": 286.57127338044035
+      }
+    },
+    {
+      "id": "concept68",
+      "label": "domination",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 193.0428369003526,
+        "y": 30.213433709422404
+      }
+    },
+    {
+      "id": "concept69",
+      "label": "systems",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 511.0904918365327,
+        "y": 178.07057756935902
+      }
+    },
+    {
+      "id": "concept70",
+      "label": "physical",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 565.7544175519886,
+        "y": 608.3299907503113
+      }
+    },
+    {
+      "id": "concept71",
+      "label": "manipulation oftheroot",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 966.0317577628862,
+        "y": 506.06447283702073
+      }
+    },
+    {
+      "id": "concept72",
+      "label": "embedded",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 537.7688329660841,
+        "y": 181.98857023973386
+      }
+    },
+    {
+      "id": "concept73",
+      "label": "anindividual",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 477.99379195383807,
+        "y": 30.588780547979596
+      }
+    },
+    {
+      "id": "concept74",
+      "label": "time",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 269.2104233483121,
+        "y": 303.91193961941497
+      }
+    },
+    {
+      "id": "concept75",
+      "label": "elements",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 420.207469910119,
+        "y": 345.2311403917902
+      }
+    },
+    {
+      "id": "concept76",
+      "label": "people",
+      "category": "general",
+      "description": "A significant term identified through text analysis",
+      "visualAttributes": {
+        "size": 0.16666666666666669,
+        "color": "#f39c12",
+        "connections": 0,
+        "x": 71.98111095200004,
+        "y": 228.38206834855046
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "concept3",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.4
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept15",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.4
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept7",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.4
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.4
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8599999999999999
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8599999999999999
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept21",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept21",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept19",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept13",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.88
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.88
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept8",
+      "relationship": "influences",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept7",
+      "relationship": "influences",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept7",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept20",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8599999999999999
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#e74c3c",
+        "width": 1.8599999999999999
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.8399999999999999
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept4",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept18",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.8199999999999998
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept10",
+      "relationship": "creates",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept17",
+      "relationship": "creates",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept17",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.46
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept6",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept19",
+      "target": "concept4",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept17",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept19",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.46
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept3",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept7",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept17",
+      "target": "concept2",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept17",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept19",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept13",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept6",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept4",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept17",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept17",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept19",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept13",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept7",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept7",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept10",
+      "relationship": "creates",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept23",
+      "relationship": "creates",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept24",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.48
+      }
+    },
+    {
+      "source": "concept24",
+      "target": "concept23",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.2
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept24",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.48
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept23",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept24",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.2
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept23",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept24",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept24",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept23",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.8
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.74
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept14",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.34
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept12",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.34
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.3599999999999999
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.3599999999999999
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#2ecc71",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#2ecc71",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept24",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.22
+      }
+    },
+    {
+      "source": "concept23",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.26
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept24",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.22
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept23",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.26
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#2ecc71",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#3498db",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.42
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.42
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept14",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.32
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#9b59b6",
+        "width": 1.32
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept14",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept26",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.34
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept26",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.34
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.78
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#2ecc71",
+        "width": 1.48
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#2ecc71",
+        "width": 1.48
+      }
+    },
+    {
+      "source": "concept12",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.42
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept12",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.42
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept14",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept10",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept14",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.52
+      }
+    },
+    {
+      "source": "concept9",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept9",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept14",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#9b59b6",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept14",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#3498db",
+        "width": 1.56
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.72
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept11",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept11",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.76
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept6",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#e74c3c",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept6",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#2ecc71",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept5",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#3498db",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept5",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept1",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept18",
+      "relationship": "are",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept0",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#3498db",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept0",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#3498db",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept1",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept4",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept1",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept4",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6800000000000002
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept25",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept13",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#9b59b6",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept16",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.5
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept13",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#9b59b6",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept16",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#2ecc71",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept25",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#f39c12",
+        "width": 1.58
+      }
+    },
+    {
+      "source": "concept16",
+      "target": "concept15",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#2ecc71",
+        "targetColor": "#f39c12",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept15",
+      "target": "concept16",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#2ecc71",
+        "width": 1.6
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.6400000000000001
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept13",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#9b59b6",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept13",
+      "target": "concept20",
+      "relationship": "is",
+      "visualAttributes": {
+        "sourceColor": "#9b59b6",
+        "targetColor": "#e74c3c",
+        "width": 1.54
+      }
+    },
+    {
+      "source": "concept3",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept20",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept3",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.62
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept20",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept2",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#e74c3c",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept2",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#e74c3c",
+        "targetColor": "#f39c12",
+        "width": 1.6600000000000001
+      }
+    },
+    {
+      "source": "concept18",
+      "target": "concept25",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept25",
+      "target": "concept18",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.44
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept10",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept10",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.7
+      }
+    },
+    {
+      "source": "concept22",
+      "target": "concept8",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.46
+      }
+    },
+    {
+      "source": "concept8",
+      "target": "concept22",
+      "relationship": "relates to",
+      "visualAttributes": {
+        "sourceColor": "#f39c12",
+        "targetColor": "#f39c12",
+        "width": 1.46
+      }
+    }
+  ],
+  "metadata": {
+    "categories": [
+      {
+        "name": "memetic",
+        "color": "#3498db"
+      },
+      {
+        "name": "social",
+        "color": "#e74c3c"
+      },
+      {
+        "name": "magical",
+        "color": "#9b59b6"
+      },
+      {
+        "name": "consciousness",
+        "color": "#2ecc71"
+      },
+      {
+        "name": "general",
+        "color": "#f39c12"
+      }
+    ],
+    "relationshipTypes": [
+      "is",
+      "influences",
+      "relates to",
+      "creates",
+      "are"
+    ],
+    "nodeCount": 77,
+    "edgeCount": 376,
+    "layout": "force-directed",
+    "width": 1000,
+    "height": 800
+  }
+}
