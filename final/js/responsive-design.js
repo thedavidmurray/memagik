@@ -61,10 +61,19 @@ class ResponsiveDesign {
   /**
    * Set the graph visualization instance
    */
-  setGraphVisualization(graphVisualization) {
-    this.graphVisualization = graphVisualization;
-    this.applyGraphAdaptations();
+setGraphVisualization(graphVisualization) {
+  this.graphVisualization = graphVisualization;
+  // Get current adaptations based on breakpoint
+  let currentAdaptations;
+  if (this.currentBreakpoint === 'small') {
+    currentAdaptations = this.options.adaptations.small;
+  } else if (this.currentBreakpoint === 'medium') {
+    currentAdaptations = this.options.adaptations.medium;
+  } else {
+    currentAdaptations = this.options.adaptations.large;
   }
+  this.applyGraphAdaptations(currentAdaptations);
+}
   
   /**
    * Handle window resize event with debounce
@@ -191,7 +200,17 @@ class ResponsiveDesign {
    */
   applyGraphAdaptations(adaptations) {
     if (!this.graphVisualization || !this.graphVisualization.cy) return;
-    
+      
+  // If adaptations is not provided, use current breakpoint adaptations
+  if (!adaptations) {
+    if (this.currentBreakpoint === 'small') {
+      adaptations = this.options.adaptations.small;
+    } else if (this.currentBreakpoint === 'medium') {
+      adaptations = this.options.adaptations.medium;
+    } else {
+      adaptations = this.options.adaptations.large;
+    }
+  }
     const cy = this.graphVisualization.cy;
     
     // Apply node size adaptations
